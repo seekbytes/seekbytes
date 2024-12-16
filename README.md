@@ -1,3 +1,4 @@
-Computer Science Student at [Università degli Studi di Verona](https://univr.it). Reverse engineering lover.
+Computer Science Student at [Università degli Studi di Verona](https://univr.it). Reverse engineer.
 
-[Send me an e-mail](mailto:seekbytes@protonmail.com)
+* [Blog](https://nicolo.dev)
+* [Send me an e-mail](mailto:seekbytes@protonmail.com)
