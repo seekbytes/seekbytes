@@ -1,4 +1,4 @@
-Computer Science Student at [Università degli Studi di Verona](https://univr.it). Reverse engineer.
+Security engineer, working in the software protection field.
 
-* [Blog](https://nicolo.dev)
+* [Website](https://nicolo.dev/en/)
 * [Send me an e-mail](mailto:seekbytes@protonmail.com)
